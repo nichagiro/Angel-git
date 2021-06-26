@@ -1,3 +1,3 @@
 <?php
 
-echo "FUNCIONA PHP";
+echo "FUNCIONA PHP 2";
